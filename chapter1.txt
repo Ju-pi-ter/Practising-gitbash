@@ -1,1 +1,1 @@
-My first git project, there is no limit to this journey!
+My first git project with gitbash, there is no limit to this journey!
